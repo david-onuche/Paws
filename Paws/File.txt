@@ -1,0 +1,5 @@
+No exact matches in call to initializer 
+
+Incorrect labels for candidate (have: '(for:configuration:)', expected: '(for:configurations:)') (SwiftData.ModelContainer.init)
+
+Incorrect labels for candidate (have: '(for:configuration:)', expected: '(for:configurations:)') (SwiftData.ModelContainer.init)
